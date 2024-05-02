@@ -73,5 +73,3 @@ Now that you have installed all the necessary dependencies in your Arduino IDE, 
 The ESP32-S2 board has 2 USB-C ports. One is labeled `COMM` and the other `USB`. 
 
 When flashing program to the ESP32, you will use the port labeled `USB`. To run the program itself and begin receiving communications from the board, you will connect to the `COMM` port.
-
-[]
